@@ -11,7 +11,7 @@
 - **Hari/Tanggal:** Sabtu, 25 Oktober 2026
 - **Pertemuan:** 6 (Offline)
 
-- ## Tujuan Praktikum
+## Tujuan Praktikum
 
 - Memahami sintaks dasar JavaScript dan cara menyisipkan JavaScript pada HTML.
 - Menggunakan variabel, tipe data, operator, percabangan, perulangan, dan function.
